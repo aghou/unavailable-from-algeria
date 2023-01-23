@@ -20,4 +20,4 @@ Collection/List of platforms and services not available in Algeria
 Contributions are always welcome!
 Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-For non-technical contributors, please send your suggestion as a comment on this [linkedin thread](#)
+For non-technical contributors, please send your suggestion as a comment on this [linkedin thread](https://www.linkedin.com/pulse/appel-%2525C3%2525A0-contribution-elaboration-dune-liste-de-et-non-saad-bouzid/)
